@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_application_1/widgets/drawer.dart';
 
 class HomePage extends StatelessWidget {
   const HomePage({Key? key}) : super(key: key);
@@ -14,7 +15,7 @@ class HomePage extends StatelessWidget {
           child: const Text("welcome to my first Flutter app"),
         ),
       ),
-      drawer: const Drawer(),
+      drawer: MyDrawer(),
     );
   }
 }
