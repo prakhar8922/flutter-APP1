@@ -3,14 +3,5 @@
 A new Flutter project.
 
 ## Getting Started
+This project is used to make an attractive and easy to use interface e-commerce app that can be run on both android and ios devices with full support in both light and dark mode. Given below image is the home page of the app running in dark mode. Screenshot_1650300721
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
